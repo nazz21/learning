@@ -1,1 +1,16 @@
- git ccommands
+ git commands
+1 git clone<link>
+2 git init
+3 git add
+4 git status
+5 git add<filename>
+6 git rm--cached
+7 git commit-m"comment"
+8 git log
+9 git push
+10 git branch
+11 git checkout-b<branch name>
+12 git push -u
+13 git merge<branch name>
+14 git pull
+15 git ignore files
